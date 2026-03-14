@@ -1,0 +1,1 @@
+Rav met Rose in New York on July 10, 2024, and they invested $5,000 in a startup called BrightTech. Later, Rose sent the details to rav.rose@gmail.com and asked Rav to check www.brighttech.com stock before 5 PM.
