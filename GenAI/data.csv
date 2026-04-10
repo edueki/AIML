@@ -1,0 +1,97 @@
+question,answer
+what Valaxy offering or who is valaxy?,Valaxy provides instructor-led training programs that empower the next generation of AI engineers.
+Who is the instructor giving training on AIML course?,PR Reddy is an experienced instructor specializing in the AI/ML technology stack.
+what are the top technologies covered in AIML course?,The course covers Python for Agentic AI and Statistical Machine Learning and Deep Learning and Neural Networks and Generative AI and Agentic AI Frameworks and AWS Bedrock and LLMs and and MCP Protocol and among others.
+What is the title of the course?,AI/ML Practitioner Training (AMPT).
+What is the primary goal of AMPT?,To equip learners with the skills to bridge machine learning and production engineering through hands-on and project-driven learning.
+Who is the program designed for?,Learners seeking real-world AI/ML engineering roles with end-to-end skills from data handling to deployment.
+What learning approach does AMPT follow?,A hands-on and project-driven approach that emphasizes practical tooling across the AI/ML lifecycle.
+Which major technology areas does the program cover?,Machine Learning and Deep Learning and Generative AI (LLMs) and Prompt Engineering and and Agentic AI frameworks.
+What real-world outcomes does AMPT emphasize?,Designing and building and and deploying production-grade AI/ML applications and workflows.
+What is included under Python Foundations?,NumPy and Pandas and APIs and and Object-Oriented Programming (OOP).
+Which ML library is emphasized for classic ML?,Scikit-learn.
+Which deep learning frameworks are covered?,PyTorch and TensorFlow.
+Which LLM tools and topics are included?,GPT and BERT and LLaMA and Claude and RAG and and LangChain.
+What types of projects are practiced?,Classification and regression and text generation and and image detection.
+What topics are in Python Basics?,Introduction to Python and installation and IDEs (PyCharm and VSCode and Jupyter and IntelliJ) and scripting vs programming and and interpreters vs compilers.
+Which core Python data types are covered?,String and Integer and Float and and Boolean.
+What kinds of variables are discussed?,Local and Global and Input and and Output variables.
+Which operator categories are taught?,Arithmetic and Assignment and Comparison and Logical and Identity and Membership and and Bitwise operators.
+Which Python data structures are emphasized?,List and Tuple and Dictionary and and Set.
+Which OOP concepts are taught?,Classes and Objects and Inheritance and Polymorphism and Encapsulation and and Abstraction.
+What file types are handled in Python file processing?,CSV and XML and JSON and and XLSX.
+What control flow topics are included?,if and if-else and if-elif-else and nested-if and for and while and nested loops and break and and continue.
+What function concepts are covered?,Built-in and user-defined functions and arguments and and return values.
+What exception handling topics are covered?,try and except and else and finally and raising exceptions and and creating custom exceptions.
+What is the focus of modules and packages?,Package management and creating packages and and writing modular and reusable code.
+What is taught in Pandas?,Importing Pandas and using it for data manipulation and analysis.
+What is taught in NumPy?,Working with multidimensional arrays and performing numerical computations.
+What is taught under FastAPI Framework?,Fundamentals of FastAPI and building asynchronous web applications.
+What is included in RESTful APIs module?,Creating and consuming RESTful APIs.
+What tools are used for API testing and debugging?,Postman and Swagger UI.
+Which testing topics are covered?,Debugging techniques and writing/running tests using unittest and pytest.
+What is the focus of the logging module?,Implementing best practices for logging in Python development.
+What is covered in AI/ML Basics?,ML fundamentals and differences between MLOps and DevOps and and Data Science and and the role of LLMs in AI systems.
+What is covered in Streamlit module?,Creating and deploying and and integrating Streamlit apps with ML models.
+Which cloud tools are covered for MLOps?,Kubeflow and MLflow and Amazon SageMaker and and Amazon Bedrock.
+What does Kubeflow module include?,Introduction to Kubeflow and its architecture for ML pipelines.
+What does MLflow module include?,Introduction to MLflow and ML lifecycle and model packaging and and deployment using MLflow.
+What does the Amazon SageMaker module include?,Introduction to SageMaker and Pipelines and and Experiments.
+What is included in Amazon Bedrock module?,Introduction to Bedrock and integrating LLMs using Bedrock.
+Which LLMs and libraries are covered in LLMs module?,OpenAI GPT‑4 and Google BERT and Anthropic Claude and Meta LLaMA and and Hugging Face Transformers.
+What is covered in the RAG module?,Implementing Retrieval-Augmented Generation (RAG) using LangChain and ChromaDB and and integrating LLMs with vector databases.
+What is covered in the Gen‑AI module?,Generative AI architecture using MCP server and AI agent design and hosted LLMs and and prompt engineering.
+What is covered in the Agentic AI module?,Intent server and MCP controller and MCP client/server and and API integrations.
+What does the scikit‑learn module focus on?,Training and packaging and and deploying ML models and including deep learning model artifacts.
+What is the purpose of Git and DVC in the course?,Version control for code and datasets using Git and DVC.
+Which core steps are emphasized in the AI/ML model lifecycle?,Model planning and training and versioning and and deployment.
+What is highlighted in ML Deployments?,Deploying ML models as APIs.
+What is Capstone Project 1 about?,Loan Application model deployment with FastAPI integration.
+What is Capstone Project 2 about?,Sales Application with Streamlit integration.
+What is Capstone Project 3 about?,Classification and regression projects using deep learning and including packaging and deploying a neural network.
+What is Capstone Project 4 about?,RAG-based AI Chatbot using GPT-based LLMs for real-time assistance.
+What is Capstone Project 5 about?,Agentic AI workflow management with intelligent AI agents.
+Which IDEs are suggested for Python development?,PyCharm and VSCode and Jupyter Notebook and and IntelliJ.
+What is the difference between scripting and programming as discussed?,Scripting refers to quick and interpreted tasks and while programming involves larger software development practices.
+How are interpreters and compilers contrasted in the course?,Interpreters execute code line-by-line and while compilers translate source code into executable binaries.
+What are identity vs membership operators examples?,Identity operators compare object identity (is and is not); membership operators test containment (in and not in).
+Which file formats are emphasized for data pipelines?,CSV and XML and JSON and and XLSX.
+What does 'asynchronous' mean in the FastAPI module?,Using async I/O for non-blocking request handling to improve API performance.
+What testing frameworks are practiced for Python?,unittest and pytest.
+What is emphasized under 'Enhance Logging in Python Development'?,Using the logging module to produce structured and leveled logs for both development and production environments.
+What are typical ML project types practiced?,Classification and regression and text generation (NLP) and and image detection (CV).
+How does RAG improve LLM answers?,By retrieving relevant context from vector databases (e.g. and ChromaDB) and feeding it to LLMs to reduce hallucinations.
+What role does LangChain play in the course?,It orchestrates retrieval and prompt templates and and LLM chains to build RAG and agent workflows.
+What is the intent server in Agentic AI?,It routes user intent to the correct agents or tools for task execution.
+What are MCP components mentioned?,MCP controller and MCP client and and MCP server coordinating agent workflows.
+What are model artifacts in deep learning context?,Saved model weights and architecture definitions and and configurations required for deployment.
+What does 'Experiments in SageMaker' entail?,Tracking and organizing training runs and parameters and and metrics for model comparison.
+How is data versioning handled?,Using DVC with Git to version datasets and link them to specific code revisions.
+What does 'Deploy ML Models as APIs' mean?,Packaging models as web endpoints so external apps can consume predictions via HTTP.
+What courses do you offer?,We offer professional and self‑paced courses in DevOps and Cloud and Infrastructure as Code and CI/CD and and Monitoring and among other real‑world technologies.
+How do I enroll in a course?,Create an account and browse available courses and and click ‘Enroll’ or ‘Start Learning’.
+Is there a free trial or demo?,Trial lessons or previews may be available—check each course page or contact support for current offers.
+Are the courses self‑paced or instructor‑led?,Most Valaxy courses are self‑paced and allowing learners to study on their own schedule with interactive content.
+Do I get a certificate upon completion?,Yes — after completing all modules and assessments and you receive a course completion certificate.
+What is included in the course materials?,Video lectures and transcripts and reading materials and quizzes and and assessments.
+How do assessments work?,Assessments include quizzes and exams and and practical tasks that must be completed to earn certification.
+Can I access course content offline?,Currently and content is online-only. You may download transcripts or materials for offline reading where available.
+How long do I have access to the courses?,You generally receive lifetime access unless otherwise specified in the course description.
+What are the payment options?,We accept major credit/debit cards and UPI and and net banking. Payment methods may vary by region.
+Do you offer refunds?,Yes — a refund period (usually 7 or 14 days) is available as per our refund policy.
+Is this suitable for beginners?,Yes — courses begin with fundamentals and gradually move to advanced topics.
+Are there prerequisites for enrolling?,Some courses may require basic programming or Linux knowledge. Each course lists its prerequisites.
+Can I get support while taking a course?,Yes — learners can contact mentors and support staff and or use the discussion forums within the platform.
+Do I need any special software or environment?,You may need a terminal and Docker and or a cloud account. Setup instructions are included in each module.
+Can I upgrade my plan or switch to another course?,Yes — contact support to upgrade or switch courses.
+Do you provide job assistance after course completion?,Advanced courses include career guidance and resume support and and job-readiness coaching.
+Can I access courses on mobile?,Yes — the Valaxy platform is mobile-friendly and accessible via modern browsers.
+What if I forget my password?,Click ‘Forgot Password’ on the login page and follow the instructions emailed to you.
+How can I contact support?,Use the ‘Support’ link on the website or email us directly for assistance.
+When will be the next batch started?,The next AIML batch starts on October 11th at 07:00 AM IST.
+What will be the AIML course fee?,The regular fee is INR 30 and000. Contact the admin team for available discount coupons.
+what is the course content or course index?,You can view the complete course index at: https://drive.google.com/file/d/1hizYbAgLJnwRH46BSTqf7TybdYZLI3BZ
+what is Valaxy Contact email and phone?,WhatsApp: +91‑9642858583 | Email: learnings@valaxy.in
+do you provide any interview support?,Yes — we offer resume building sessions and mock interviews.
+AIML course duration please?,The total course duration is 90 days.
+Do you know course timings?,AIML course timings are Tuesday and Wednesday and and Thursday at 7:00 AM IST.
